@@ -3,4 +3,4 @@
 def hello_world():
 	return 'hello world, my name is Tyler Lee'
 
-print( hello_world() + 'hector' )
+print( hello_world() + 'Tyler Lee' )
